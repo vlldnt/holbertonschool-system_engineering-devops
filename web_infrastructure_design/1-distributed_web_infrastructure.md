@@ -12,7 +12,7 @@
     └──── ...                   
 ```
                   
-- The load-balancer is **configurated in Active-Active**, meaning that all server are active at the same time in contrary to the **Active-Passive** where only on server is activated at the same time. Take relay if the other is down.
+- The load-balancer is **configurated in Active-Active**, meaning that all server are active at the same time in contrary to the **Active-Passive** where only on server is activated at the same time. Takes relay if the other is down.
 
 - **Database Primary-Replica** works with a main database **(Primary)** with ***Insert, Update, Delete*** and replicates changed to the replica directly. And the **replica** has a read-only access *(Select)* which reduces load on the *Primary* one  
 
