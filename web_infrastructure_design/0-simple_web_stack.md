@@ -1,4 +1,4 @@
-#### Some specifics about this infrastructure
+
 - **A server** is a computer that provides information to other computers called "clients" a computer network. The role of a server is to share data as well as to share resources and distribute work. It hosts *a web server*, and *application server*, *the application code* and *a database*
 
 - **The role of the domain name** is to be human redeable adress mapped to an IP like `www.foobar.com` if mapping to `8.8.8.8`<br>

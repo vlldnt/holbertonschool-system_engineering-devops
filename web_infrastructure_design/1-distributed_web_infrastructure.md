@@ -1,4 +1,4 @@
-### Some specifics about the distributed web infrastructure
+### Distributed web infrastructure
 
 - Adding a **Load-Balancer** that distributes incoming network traffic accros two servers to prevent overwhelming and a **second server** which is a replica of the main one for redundancy, scalability and Load distribution
 
