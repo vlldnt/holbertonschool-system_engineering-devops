@@ -1,6 +1,6 @@
 ## Secured and monitored web infrastructure
 
-![secured](https://github.com/vlldnt/holbertonschool-system_engineering-devops/blob/main/web_infrastructure_design/2-secured_and_monitored_web_infrastructure.png?raw=true)
+![secured](https://github.com/vlldnt/holbertonschool-system_engineering-devops/blob/main/web_infrastructure_design/images/2-secured_and_monitored_web_infrastructure.png?raw=true)
 
 ### **Adding firewalls, SSL certificate and 3 monitoring clients**
     
