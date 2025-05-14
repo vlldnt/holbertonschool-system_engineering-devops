@@ -2,7 +2,7 @@
 
 ### Adding one server and one load balancer and split components
 
-![scaleup](https://github.com/vlldnt/holbertonschool-system_engineering-devops/blob/main/web_infrastructure_design/images/3-scale___up.png?raw=true)
+![scaleup](https://github.com/vlldnt/holbertonschool-system_engineering-devops/blob/main/web_infrastructure_design/images/3-scale_up.png?raw=true)
 
 ### Adding Cluster load Balancer
 One load balancer added in a cluster ensures high availability by eliminating the load balancer as a single point of failure, allowing seamless failover between nodes. It can also improve reliability and potentially boost performance through active-active traffic distribution
