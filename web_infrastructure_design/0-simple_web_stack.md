@@ -1,3 +1,5 @@
+## SImple Web Stack
+![simple](https://github.com/vlldnt/holbertonschool-system_engineering-devops/blob/main/web_infrastructure_design/0-simple_web_stack.png?raw=true)
 
 - **A server** is a computer that provides information to other computers called "clients" a computer network. The role of a server is to share data as well as to share resources and distribute work. It hosts *a web server*, and *application server*, *the application code* and *a database*
 

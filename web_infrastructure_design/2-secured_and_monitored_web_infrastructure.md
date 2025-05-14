@@ -1,5 +1,6 @@
 ## Secured and monitored web infrastructure
 
+![secured](https://github.com/vlldnt/holbertonschool-system_engineering-devops/blob/main/web_infrastructure_design/2-secured_and_monitored_web_infrastructure.png?raw=true)
 
 ### **Adding firewalls, SSL certificate and 3 monitoring clients**
     
@@ -43,3 +44,4 @@ If the primary MySQL server fails, no new data can be written to the database, t
 
 ### Why having servers with all the same components (database, web server and application server) might be a problem ?
 If the server is hosting all the components and fails, everything fails the entire application will be down.
+w

@@ -1,5 +1,7 @@
 ### Distributed web infrastructure
 
+![distributed](https://github.com/vlldnt/holbertonschool-system_engineering-devops/blob/main/web_infrastructure_design/1-distributed_web_infracstructure.png?raw=true)
+
 - Adding a **Load-Balancer** that distributes incoming network traffic accros two servers to prevent overwhelming and a **second server** which is a replica of the main one for redundancy, scalability and Load distribution
 
 - Load balancer is configured with **a round robin algorythms** that send requests to each server in order:
