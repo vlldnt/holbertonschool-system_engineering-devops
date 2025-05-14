@@ -10,3 +10,9 @@ One load balancer added in a cluster ensures high availability by eliminating th
 ### Split Components into Separate Servers
 Splitting components onto separate servers improves performance, scalability, and security by allowing each service to use resources efficiently and operate independently. It also simplifies maintenance and enables specialized configurations tailored to each server’s role
 
+### One more server
+Adding a third server increases redundancy and fault tolerance, ensuring the system remains operational even if one server fails. It also enables better load distribution and improved availability
+
+
+### Issues
+More expensive beaucuase of size of the infrastructure
